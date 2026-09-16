@@ -40,6 +40,7 @@ int main(void){
     critical(long);
     critical(long long);
     critical(char);
+    critical(short);
     criticalfloat(float);
     criticalfloat(double);
     criticalfloat(long double);
