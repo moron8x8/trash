@@ -10,6 +10,7 @@ This is a personal dumping ground for "trash" code, lightweight experimental pro
 | `gamearc.c` | An Arkanoid/Pong-like arcade game built with `ncurses` featuring a bouncing ball, a controllable paddle, physics based on hit position, and a static obstacle. |
 | `gameguessthenum.c` | A classic number-guessing game where you define the range and the program gives hints ("Lower!" or "Bigger!") until you find the secret number. |
 | `PascalTriangle.c` | A script that uses a recursive function to generate and visually display Pascal's Triangle in the console based on user input. |
+| `interest_calculator.c` | A script that calculates compound interest. |
 | `typelimits.c` | A script that dynamically calculates and displays the maximum and minimum boundaries for various signed, unsigned, and floating-point data types. |
 
 > [!WARNING]
