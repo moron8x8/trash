@@ -6,6 +6,7 @@ This is a personal dumping ground for "trash" code, lightweight experimental pro
 
 | File | Description |
 | :--- | :--- |
+| `binary_power.c` | An efficient exponentiation script implementing the Binary Exponentiation.|
 | `game.c` | A simple console snake-like game where the player moves around to collect stars with no risk of dying. |
 | `gamearc.c` | An Arkanoid/Pong-like arcade game built with `ncurses` featuring a bouncing ball, a controllable paddle, physics based on hit position, and a static obstacle. |
 | `gameguessthenum.c` | A classic number-guessing game where you define the range and the program gives hints ("Lower!" or "Bigger!") until you find the secret number. |
@@ -15,5 +16,6 @@ This is a personal dumping ground for "trash" code, lightweight experimental pro
 
 > [!WARNING]
 > **Everything here is written purely for educational purposes and personal entertainment.**
+
 
 
