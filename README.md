@@ -1,6 +1,6 @@
 # 🗑️ Trash
 
-This is a personal dumping ground for "trash" code, lightweight experimental projects, and quick C scripts created purely for fun, practice, or boredom.
+This is a personal dumping ground for "trash" code, lightweight experimental projects, and quick scripts created purely for fun, practice, or boredom.
 
 ## 📦 Repository Contents
 
@@ -13,9 +13,7 @@ This is a personal dumping ground for "trash" code, lightweight experimental pro
 | `PascalTriangle.c` | A script that uses a recursive function to generate and visually display Pascal's Triangle in the console based on user input. |
 | `interest_calculator.c` | A script that calculates compound interest. |
 | `typelimits.c` | A script that dynamically calculates and displays the maximum and minimum boundaries for various signed, unsigned, and floating-point data types. |
+| `luhn.py` | A script that validates a bank card number using the Luhn algorithm and prints `True` if the number is valid or `False` otherwise. |
 
 > [!WARNING]
 > **Everything here is written purely for educational purposes and personal entertainment.**
-
-
-
