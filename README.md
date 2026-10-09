@@ -15,6 +15,7 @@ This is a personal dumping ground for "trash" code, lightweight experimental pro
 | `typelimits.c` | A script that dynamically calculates and displays the maximum and minimum boundaries for various signed, unsigned, and floating-point data types. |
 | `luhn.py` | A script that validates a bank card number using the Luhn algorithm and prints `True` if the number is valid or `False` otherwise. |
 | `taylor_series.c` | A script that approximates cos(x) using its Taylor series: takes `n` and `x` as input, then prints the sum of the first n + 1 terms and the sum computed to the maximum precision of `double`. Each term is derived from the previous one, avoiding repeated power and factorial calculations. |
+| `triangle.py` | An OOP practice for integer-sided triangles: area, angles, type and right-angle check, with side validation via a descriptor and a Singleton log of created triangles. || `triangle.py` | An OOP practice class for integer-sided triangles: area, angles, type and right-angle check, with side validation via a descriptor and a Singleton log of created triangles. |
 
 > [!WARNING]
 > **Everything here is written purely for educational purposes and personal entertainment.**
