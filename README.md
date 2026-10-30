@@ -17,6 +17,7 @@ This is a personal dumping ground for "trash" code, lightweight experimental pro
 | `taylor_series.c` | A script that approximates cos(x) using its Taylor series: takes `n` and `x` as input, then prints the sum of the first n + 1 terms and the sum computed to the maximum precision of `double`. Each term is derived from the previous one, avoiding repeated power and factorial calculations. |
 | `triangle.py` | An OOP practice class for integer-sided triangles: area, angles, type and right-angle check, with side validation via a descriptor and a Singleton log of created triangles. |
 | `palindrome.c` | A script with two string utilities: `is_palindrome` checks whether a string reads the same forwards and backwards by comparing characters from both ends, and `create_palindrome` builds a palindrome by appending the mirrored copy of the input (`123` → `123321`). |
+| `bigint_calculator.c` | An arbitrary-precision integer calculator built on a custom `Big_int` struct (base-10000 digit array with sign). Supports addition, subtraction, multiplication, exponentiation, factorial and range sum: input is an operation followed by one or two numbers, e.g. `* 123456789123456789 -987654321`, `^ 2 1000`, `! 300` or `S 1 100`. |
 
 > [!WARNING]
 > **Everything here is written purely for educational purposes and personal entertainment.**
